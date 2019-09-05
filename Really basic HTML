@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>
+This is the title
+</title>
+</head>
+
+<body>
+hi my name is <em>slim shady</em>
+<!--this is how you put in comments about the html programming, but also make sure that it doesn't show up on the actual web page. It's like invisible ink to the page viewer -->
+<p>my name is what</p> 
+<a>  </a>
+</body>
+
+</html>
